@@ -1,4 +1,4 @@
-# BADS6004-House-price-prediction
+# Spark-House-price-prediction
 
 Use Hadoop ecosystem (Hortonwork) to build regression model to predict house price by PySpark
 
